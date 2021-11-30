@@ -1,4 +1,4 @@
-# personality-quiz-flutter
+# Personality Quiz (flutter android)
 
 A new Flutter project.
 
