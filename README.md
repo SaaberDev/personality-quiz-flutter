@@ -1,4 +1,4 @@
-# flutter_complete_guide
+# personality-quiz-flutter
 
 A new Flutter project.
 
