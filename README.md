@@ -1,4 +1,4 @@
-# Personality Quiz (flutter android)
+# Simple Quiz App (flutter android)
 
 A new Flutter project.
 

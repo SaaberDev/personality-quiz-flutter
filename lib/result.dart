@@ -11,17 +11,19 @@ class Result extends StatelessWidget {
   // getters
   String get resultPhrase {
     var resultText = '';
-    if (score <= 18) {
+    if (score <= 3) {
       resultText = 'You are cool !';
-    } else if (score <= 12) {
+    } else if (score <= 7) {
       resultText = 'Hum, You are noticeable !';
-    } else if (score <= 6) {
+    } else if (score <= 12) {
       resultText = 'You are an average guy !';
-    } else if (score <= 4) {
+    } else if (score <= 16) {
       resultText = 'You are bad !';
     } else {
       resultText = 'You are awesome !';
     }
+
+    print(score);
 
     return resultText;
   }
